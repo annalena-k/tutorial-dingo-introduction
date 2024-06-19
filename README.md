@@ -1,15 +1,17 @@
 # Tutorial: Introduction to DINGO
 
 This tutorial provides a first introduction on how to use the [DINGO package](https://github.com/dingo-gw/dingo) for analyzing gravitaitonal wave data using neural posterior estimation.
-It illustrates at a 2D toy example, how to train a DINGO model from scratch in a simplified setting. Furthermore, the tutorial shows how to download and use an already trained model to obtain posterior samples for GW150914. 
-With this tutorial, We hope to help people get started easily with using DINGO.
+It illustrates at a 2D toy example how to train a DINGO model from scratch in a simplified setting. Furthermore, the tutorial shows how to download and use an already trained model to obtain posterior samples for GW150914. 
+With this tutorial, We hope to help people get started with DINGO easily.
 
 ## Getting started
 TODO: replace link
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stephengreen/gw-school-corfu-2023/blob/main/tutorial-Corfu-2023.ipynb)
 
 To get started quickly, run the tutorial in Google Colab by clicking the button above. 
+
 To run it locally (which may be faster), ensure that you create and activate a Python environment with the `dingo-gw` package. 
+
 With `pip`, this can be done with
 ```
 python3 -m venv dingo-venv
