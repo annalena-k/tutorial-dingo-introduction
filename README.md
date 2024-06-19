@@ -1,6 +1,6 @@
 # Tutorial: Introduction to DINGO
 
-This tutorial provides a first introduction on how to use the [DINGO package](https://github.com/dingo-gw/dingo) for analyzing gravitaitonal wave data using neural posterior estimation.
+This tutorial provides a first introduction on how to use the [DINGO package](https://github.com/dingo-gw/dingo) for analyzing gravitational wave data using neural posterior estimation.
 It illustrates at a 2D toy example how to train a DINGO model from scratch in a simplified setting. Furthermore, the tutorial shows how to download and use an already trained model to obtain posterior samples for GW150914. 
 With this tutorial, We hope to help people get started with DINGO easily.
 
