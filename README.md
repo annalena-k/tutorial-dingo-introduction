@@ -5,8 +5,7 @@ It illustrates at a 2D toy example how to train a DINGO model from scratch in a 
 With this tutorial, We hope to help people get started with DINGO easily.
 
 ## Getting started
-TODO: replace link
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stephengreen/gw-school-corfu-2023/blob/main/tutorial-Corfu-2023.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/annalena-k/tutorial-dingo-introduction/blob/main/DINGO_Tutorial.ipynb)
 
 To get started quickly, run the tutorial in Google Colab by clicking the button above. 
 
