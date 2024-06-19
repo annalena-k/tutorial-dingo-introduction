@@ -4,7 +4,24 @@ This tutorial provides a first introduction on how to use the [DINGO package](ht
 It illustrates at a 2D toy example, how to train a DINGO model from scratch in a simplified setting. Furthermore, the tutorial shows how to download and use an already trained model to obtain posterior samples for GW150914. 
 With this tutorial, We hope to help people get started easily with using DINGO.
 
-You can open the notebook in Colab via this link: 
+## Getting started
+TODO: replace link
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stephengreen/gw-school-corfu-2023/blob/main/tutorial-Corfu-2023.ipynb)
+
+To get started quickly, run the tutorial in Google Colab by clicking the button above. 
+To run it locally (which may be faster), ensure that you create and activate a Python environment with the `dingo-gw` package. 
+With `pip`, this can be done with
+```
+python3 -m venv dingo-venv
+source dingo-venv/bin/activate
+pip install dingo-gw
+```
+
+If using `conda`, this can be done with
+```
+conda create -c conda-forge -n venv-dingo dingo-gw jupyterlab
+conda activate venv-dingo
+```
 
 If you are looking for a more general introduction to posterior estimation of gravitational wave data without DINGO, please check out the tutorial ["GW Parameter Inference with Machine Learning"](https://github.com/stephengreen/gw-school-corfu-2023).
 
