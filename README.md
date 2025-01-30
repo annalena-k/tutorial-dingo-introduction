@@ -15,7 +15,7 @@ With `pip`, this can be done with
 ```
 python3 -m venv dingo-venv
 source dingo-venv/bin/activate
-pip install dingo-gw
+pip install dingo-gw jupyterlab
 ```
 
 If using `conda`, this can be done with
@@ -26,3 +26,5 @@ conda activate venv-dingo
 
 If you are looking for a more general introduction to posterior estimation of gravitational wave data without DINGO, please check out the tutorial ["GW Parameter Inference with Machine Learning"](https://github.com/stephengreen/gw-school-corfu-2023).
 
+### Updates
+* (30.01.2025) Tutorial was updated to be compatible with `dingo` version 0.7.0
