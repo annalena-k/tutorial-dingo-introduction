@@ -27,4 +27,5 @@ conda activate venv-dingo
 If you are looking for a more general introduction to posterior estimation of gravitational wave data without DINGO, please check out the tutorial ["GW Parameter Inference with Machine Learning"](https://github.com/stephengreen/gw-school-corfu-2023).
 
 ### Updates
+* (3.06.2025) Updated to `dingo=0.8.3`; additional minor changes.
 * (30.01.2025) Tutorial was updated to be compatible with `dingo` version 0.7.0
