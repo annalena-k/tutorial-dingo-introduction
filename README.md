@@ -24,7 +24,11 @@ conda create -c conda-forge -n venv-dingo dingo-gw jupyterlab
 conda activate venv-dingo
 ```
 
+You can start the jupyter server by executing the command `jupyter lab` in the folder containing the notebook which should open a new browser window. Finally, you can click on the jupyter notebook `DINGO_Tutorial.ipynb` and start with the tutorial!
+(Since you have already installed `dingo-gw`, you do not have to execute the notebook cells containing `!pip install ...` commands.)
+
 If you are looking for a more general introduction to posterior estimation of gravitational wave data without DINGO, please check out the tutorial ["GW Parameter Inference with Machine Learning"](https://github.com/stephengreen/gw-school-corfu-2023).
 
 ### Updates
+* (03.06.2025) Updated to `dingo=0.8.3`; additional minor changes.
 * (30.01.2025) Tutorial was updated to be compatible with `dingo` version 0.7.0
